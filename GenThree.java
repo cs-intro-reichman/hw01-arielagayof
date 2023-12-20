@@ -1,4 +1,4 @@
-public class Gen3 {
+public class GenThree {
     public static void main(String[] args) {
         int boundary1 = Integer.parseInt(args[0]);
         int boundary2 = Integer.parseInt(args[1]);
